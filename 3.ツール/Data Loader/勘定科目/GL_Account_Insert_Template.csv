@@ -1,0 +1,276 @@
+RSTKF__GLACCT_ACCT__C,RSTKF__GLACCT_APACCTTYPE__C,RSTKF__GLACCT_ARACCTTYPE__C,RSTKF__GLACCT_CMPNO__C,RSTKF__GLACCT_CONTROLACCTTYPE__C,RSTKF__GLACCT_DESC__C,RSTKF__GLACCT_DISPAPDTL__C,RSTKF__GLACCT_DISPARDTL__C,RSTKF__GLACCT_DISPMFGDTL__C,RSTKF__GLACCT_INACTIVEIND__C,RSTKF__GLACCT_NORMALBAL__C,RSTKF__GLACCT_TYPE__C
+1,,,,Not a Control Account,Fixed Assets,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1000,Cash Account,Cash Account,,Not a Control Account,"Checking - Acme, Inc USD",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1001,Cash Account,Cash Account,,Not a Control Account,Cash,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1005,Cash Account,Cash Account,,Not a Control Account,"Deposit - Acme, Inc. USD",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1070,Cash Account,Cash Account,,Not a Control Account,Petty Cash,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1090,Cash Account,Cash Account,,Not a Control Account,Petty Cash,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1100,,Accounts Receivable,,Accounts Receivable Account,Accounts Receivable  Trade,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1110,,Accounts Receivable,,Accounts Receivable Account,Accounts Receivable - Inter Company,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1150,,,,Not a Control Account,A/R - Doubtful Accounts,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1160,,Accounts Receivable,,Accounts Receivable Account,Accounts Receivable Control,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1200,,,,On-Hand Inventory,Inventory - Finished Goods,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1205,,Write-off/Write-up,,Not a Control Account,Allowance for Doubtful Accounts,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1210,,,,On-Hand Inventory,Inventory - Raw Material,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1220,,,,On-Hand Inventory,Inventory - Mfg Components,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1230,,,,On-Hand Inventory,Inventory - Purchased Parts,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1250,,,,WIP inventory,Inventory - WIP - In House,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1260,,,,WIP inventory,Inventory - WIP - Subcontract,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1270,,,,On-Hand Inventory,Inventory - Non-Nettable,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1280,,,,WIP inventory,WIP Disassembly,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1290,,,,Not a Control Account,Reserve for Obsolete Inventory,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1300,,,,Not a Control Account,Pepaid Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1305,,Credit Card Clearing,,Not a Control Account,Credit Card Receivable,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1350,,,,Not a Control Account,Prepaid Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1360,,,,Not a Control Account,Accrued Income,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1390,,,,Not a Control Account,Amoritzation of Prepaid Expenses,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1400,,,,Not a Control Account,Property and Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1405,,,,On-Hand Inventory,"Inventory, Non-Nettable",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1410,,,,Not a Control Account,"Inventory, Division Transfer Clearing",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1415,,,,WIP inventory,"Inventory, WO WIP",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1420,,,,WIP inventory,"Inventory, Subcontract PO WIP",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1425,,,,On-Hand Inventory,"Inventory, Finished Goods",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1430,,,,Not a Control Account,"Inventory, Shipping Clearing",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1490,,,,Not a Control Account,Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1500,,,,Not a Control Account,Land,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1510,,,,Not a Control Account,Buildings,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1515,,,,Not a Control Account,Leasehold Improvements,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1520,,,,Not a Control Account,Vehicles,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1525,,,,Not a Control Account,Furniture and Fixtures,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1530,,,,Not a Control Account,Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1535,,,,Not a Control Account,Buildings Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1540,,,,Not a Control Account,Leasehold Improvements Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1545,,,,Not a Control Account,Vehicles Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1550,,,,Not a Control Account,Furniture and Fixtures Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1555,,,,Not a Control Account,Equipment Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1900,,,,Not a Control Account,Intangible Assets,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+2000,Accounts Payable,,,Accounts Payable Account,Accounts Payable - Trade,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2001,Accrued Accounts Payable,,,Not a Control Account,Accrued Accounts Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2005,Accrued Accounts Payable,,,Not a Control Account,Accrued Accounts Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2010,Accounts Payable,,,Accounts Payable Account,Accounts Payable - Inter Company,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2011,Accounts Payable,,,Accounts Payable Account,Deferred Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2100,,Credit Card Clearing,,Accounts Payable Account,Accounts Payable - Credit Card Clearing,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2105,,,,Not a Control Account,Inter-Company Payables,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2110,,,,Not a Control Account,Staff Expenses Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2115,,,,Not a Control Account,Employment Taxes Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2120,,,,Not a Control Account,Pension Contributions Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2125,,,,Not a Control Account,Salaries Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2130,,,,Not a Control Account,Accrued Expenses,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2135,,Tax,,Not a Control Account,Sales Tax Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2200,Accounts Payable,,,Not a Control Account,Current Portion of Long Term AP,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2205,,,,Not a Control Account,Deferred Income,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2210,,,,Not a Control Account,Accrued Warranty Expense,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2220,,,,Not a Control Account,Bank Line of Credit,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2230,,,,Not a Control Account,Income Tax Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2240,,,,Not a Control Account,Interest Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2250,,,,Not a Control Account,Sales Tax,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2260,,,,Not a Control Account,VAT Tax-VAT Recovery,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2300,Accounts Payable,,,Not a Control Account,Notes Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2305,,,,Not a Control Account,Note Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2310,,,,Not a Control Account,Corporation Tax,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2315,,,,Not a Control Account,Due Franchisee,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2320,,,,Not a Control Account,Due to Acme Inc.,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2325,,,,Not a Control Account,Due to Acme Canada,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2330,,,,Not a Control Account,Due to Acme UK,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2400,Accounts Payable,,,Not a Control Account,Unvouchered Receipts(ie. accrued AP),FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2500,Accounts Payable,,,Not a Control Account,Sales Commission Due,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2510,Accounts Payable,,,Not a Control Account,Royalty Due,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2590,Accounts Payable,,,Not a Control Account,Reimbursable employee expense due,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2600,Terms Discount Taken,,,Not a Control Account,Terms Discount,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+2900,,,,Not a Control Account,Long Term Debt,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+3000,,,,Not a Control Account,Common Stock,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3010,,,,Not a Control Account,Additional Paid In Capital,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3030,,,,Not a Control Account,Intercompany APIC,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3040,,,,Not a Control Account,Dividends,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+3050,,,,Not a Control Account,Retained Earnings (Prior Years),FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3060,,,,Not a Control Account,Current Year's Earnings,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3070,,,,Not a Control Account,CTA,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3071,,,,Not a Control Account,Prior Year CTA,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3500,,,,Not a Control Account,Retained Profit,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+3900,,,,Not a Control Account,Current Year Profit,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4000,,,,Not a Control Account,Revenue - Sales,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4100,,,,Not a Control Account,Revendue - Inter Company,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4105,,,,Not a Control Account,Packaging Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4110,,,,Not a Control Account,Handling Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4200,,,,Not a Control Account,Revenue - Spares,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4296,,,,Not a Control Account,Revenue - Packaging,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4297,,,,Not a Control Account,Revenue - Handling,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4298,,,,Not a Control Account,Revenue - Freight,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4300,,,,Not a Control Account,Revenue - Other Misc Parts,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4310,,,,Not a Control Account,Revenue - Eng Services,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4320,,,,Not a Control Account,Revenue - Other - Install and Maint,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4333,,Credit Card Processing Fee,,Accounts Receivable Account,Credit Card Processing Fee,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+4334,,Interest Income,,Accounts Receivable Account,Interest Income,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4335,,Interest Expense,,Not a Control Account,Interest Expense,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+4390,,,,Not a Control Account,Revenue - Other - Misc,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4392,,,,Not a Control Account,Prepayment Invoice Sales Acct,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4395,,,,Not a Control Account,Credit Card Prepayment Account,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4400,,,,Not a Control Account,Returns and Allowances,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4500,,,,Not a Control Account,Cost of Sales,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4510,,,,Not a Control Account,Cost of Sales - Inter Company,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4520,,,,Not a Control Account,Cost of Sales - Spares,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4530,,,,Not a Control Account,Cost of Sales - Misc Parts,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4540,,,,Not a Control Account,Cost of Sales - Allocated Eng Svcs,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4550,,,,Not a Control Account,Cost of Sales - Allocated Imp and Mnt Costs,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4580,,,,Not a Control Account,Cost of Sales - Royalties,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4590,,,,Not a Control Account,Cost of Sales - Product and Services - other,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4600,,,,Not a Control Account,Cost of Sales - Sales Commission,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4610,,,,Not a Control Account,Cost of Sales - Sales Commission - other,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4700,,,,Not a Control Account,Direct Selling Expense - Wages and Salaries,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4710,,,,Not a Control Account,Direct Selling Expense - Fringes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4720,,,,Not a Control Account,Direct Selling Expense - Travel and Related,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4780,,,,Not a Control Account,Direct Selling Expense - Overhead Applies,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4790,,,,Not a Control Account,Direct Selling Expense - Others,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+4900,,,,Not a Control Account,Product Returns,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+5000,,,,Not a Control Account,Allocation Production Cost - Direct Labor,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5010,,,,Not a Control Account,Allocation Production Cost  - Labor Driven Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5020,,,,Not a Control Account,Allocation Production Cost - Subconracted,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5030,,,,Not a Control Account,Allocation Production Cost  - Material Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5040,,,,Not a Control Account,Allocated Production Cost - Factory Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5090,,,,Not a Control Account,Allocated Production Cost - Re-allocated to Projects,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+5100,,,,Not a Control Account,Allocated Project ost,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5105,,,,Not a Control Account,Inventory Adjustment,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5110,,,,Not a Control Account,Allocated Project Cost - Labor Driven Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5120,,,,Not a Control Account,Allocated Project Cost - Subcontracted,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5125,,,,Not a Control Account,Negative Inventory Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5130,,,,Not a Control Account,Allocated Project Cost - Material Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5135,,,,Not a Control Account,PO Receipt-Invoice Quantity Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5140,,,,Not a Control Account,Allocated Project Cost - Factory Overhead,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5145,,,,Not a Control Account,Division-Division Move Standards Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5150,,,,Not a Control Account,Work Order Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5155,,,,Not a Control Account,Work Order Scrap,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5165,,,,Not a Control Account,Material Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5170,,,,Not a Control Account,Labor Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5175,,,,Not a Control Account,Labor Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5180,,,,Not a Control Account,Machine Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5185,,,,Not a Control Account,Fringe Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5190,,,,Not a Control Account,Allocated Project cost - G&A applied to Projects,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5195,Freight,,,Not a Control Account,Freight - Out and Handling,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5200,,,,Not a Control Account,Non-Capitalized tooling,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5205,,,,Not a Control Account,Billable Hours,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5210,,,,Not a Control Account,Shop Supplies,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5220,,,,Not a Control Account,Safety Supplies,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5300,,,,Not a Control Account,Scrap from Stock,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5310,,,,Not a Control Account,Scrap from WIP,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5320,,,,Not a Control Account,Scrap from MRB,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5390,,,,Not a Control Account,Scrap Recovery,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+5400,,,,Not a Control Account,Inventory Count Adjustment,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5401,,,,Not a Control Account,Inv Adjustment,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5900,,,,Not a Control Account,RMA Product Return,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6000,,,,Not a Control Account,Factory Labor - Direct,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6005,,,,Not a Control Account,Web Site,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6010,,,,Not a Control Account,Factory Labor - Direct Labor Fringe,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6100,,,,Not a Control Account,Factory Labor - Indirect,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6105,,,,Not a Control Account,Legal and Professional Fees,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6110,,,,Not a Control Account,Factory Labor - Indirect Labor Fringes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6190,,,,Not a Control Account,Factory Labor - Allocated to Production Cost,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+6200,,,,Not a Control Account,Non-Factory Wages and Salaries,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6205,,,,Not a Control Account,Donations,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6210,,,,Not a Control Account,Non-Factory Labor Fringes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6300,,,,Not a Control Account,Payroll Taxes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6305,,,,Not a Control Account,Employee Benefits,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6310,,,,Not a Control Account,Payroll Taxes,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6400,,,,Not a Control Account,Airfare,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6405,,,,Not a Control Account,Lodging,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6410,,,,Not a Control Account,Auto Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6415,,,,Not a Control Account,Meals and Entertainment,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6420,,,,Not a Control Account,Other Travel Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6500,,,,Not a Control Account,Utilities - Electric,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6505,,,,Not a Control Account,Office Expense,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6510,,,,Not a Control Account,Utilities - Heating,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6515,,,,Not a Control Account,Postage and Delivery,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6520,,,,Not a Control Account,Utilities - Water,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6525,,,,Not a Control Account,Telephone,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6590,,,,Not a Control Account,Utilities - Other,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6600,,,,Not a Control Account,Rent,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6610,,Write-off/Write-up,,Not a Control Account,Bad Debts,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+6650,,,,Not a Control Account,Property Tax,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6700,,,,Not a Control Account,Plant Maintenance,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+6790,,,,Not a Control Account,Other Upkeep Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6800,,,,Not a Control Account,Depreciation Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6810,,,,Not a Control Account,Gain/Loss on sale of fixed assets,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+6850,,,,Not a Control Account,Amoritzation of Prepaid Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6900,,,,Not a Control Account,Non-Prepaid Insurance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7000,,,,Not a Control Account,Purchase Price Variance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7010,,,,Not a Control Account,Other PD Variances,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7100,,,,Not a Control Account,Production Variances,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7101,,,,Not a Control Account,Standards Variances,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7102,,,,Not a Control Account,Div-to-Div Move Stds Variance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7103,,,,Not a Control Account,Material OHD Variance Account,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7104,,,,Not a Control Account,WO Rework Variance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7199,,,,Not a Control Account,Negative Variance,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+7200,Foreign Exchange Variance,Foreign Exchange Variance,,Not a Control Account,Gain/Loss on Foreign Exchange,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7301,,,,Not a Control Account,Div-to-Div Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7302,,,,Not a Control Account,Inter-Div Transfer,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7304,,,,Not a Control Account,Machine OHD Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7305,,,,Not a Control Account,Material OHD Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7306,,,,Not a Control Account,Fringe OHD Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7308,,,,Not a Control Account,PO Invoice Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7309,,,,Not a Control Account,RMA Adjustment,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7310,,,,Not a Control Account,Labor Clearing Acct,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7311,,,,Not a Control Account,Labor oHD Clearing Acct,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7350,,,,Not a Control Account,COGS Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7360,,,,Not a Control Account,SO Invoice Export Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8000,,,,Not a Control Account,Gas and Oil,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8010,,,,Not a Control Account,Vehicle Repairs,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8100,,,,Not a Control Account,Airfare,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8110,,,,Not a Control Account,Business Entertainment,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8120,,,,Not a Control Account,Lodging,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8130,,,,Not a Control Account,Meals,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8140,,,,Not a Control Account,Mileage Allowance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8150,,,,Not a Control Account,Tolls,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8160,,,,Not a Control Account,"Bus, train, taxi, limo",FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8170,,,,Not a Control Account,Car Rental,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8200,,,,Not a Control Account,Purchased Engineering Services,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8280,,,,Not a Control Account,Other Consulting,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8290,,,,Not a Control Account,Other Purchased Services,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8300,,,,Not a Control Account,Depreciation - Buildings,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8305,,,,Not a Control Account,Depreciation - Leasehold Improvements,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8310,,,,Not a Control Account,Depreciation - Vehicles,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8315,,,,Not a Control Account,Depreciation - Furniture and Fixtures,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8320,,,,Not a Control Account,Depreciation - Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8400,Tax,,,Not a Control Account,Income Tax,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8500,,,,Not a Control Account,Gain/Loss on Currency Exchange,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+9000,,,,Not a Control Account,Salss Tax Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9010,Freight,,,Not a Control Account,Freight Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9020,,,,Not a Control Account,Postage,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9030,,,,Not a Control Account,Office Supplies,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9040,,,,Not a Control Account,Copying,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9050,,,,Not a Control Account,IT Equipment Rental,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9060,,,,Not a Control Account,Other Offcie Equipment Rental,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+9070,,,,Not a Control Account,IT and Office Equip Maint,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9080,,,,Not a Control Account,Bad Debt Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9090,,,,Not a Control Account,Warranty Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9500,,,,Not a Control Account,Legal Fees,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9510,,,,Not a Control Account,Audit Fee,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9520,,,,Not a Control Account,Dues and Subscriptions,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9590,,,,Not a Control Account,Other Professional Fees,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9600,,,,Not a Control Account,Cash Discounts Earned,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9610,,Cash Discounts Allowed,,Not a Control Account,Cash Discounts Allowed,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9611,,Cash Discounts Allowed,,Accounts Receivable Account,Cash Discount Allowed,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9615,,Cash Receipts Multicurrency Rounding,,Accounts Receivable Account,Cash Receipt Curr Rounding Cash,FALSE,TRUE,FALSE,FALSE,Debit,Expense
+9620,,Write-off/Write-up,,Not a Control Account,Finance Charge income/expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9621,,Finance Charge Interest Earned,,Accounts Receivable Account,Finance Charges,FALSE,TRUE,FALSE,FALSE,Debit,Expense
+9626,,Bank Payment Variance,,Accounts Receivable Account,Currency Payment Var,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9630,,,,Not a Control Account,Interest Income,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+9640,,,,Not a Control Account,Interest Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9650,,,,Not a Control Account,Bank Charges,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9660,,,,Not a Control Account,Credit Card Fees,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9690,,,,Not a Control Account,Miscellaneous Income/Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9800,,,,Not a Control Account,Business License,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9810,,,,Not a Control Account,Franchise Taxes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9870,,,,Not a Control Account,Other Misc Taxes,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9890,,,,Not a Control Account,G&A Allocated to Projects,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+9900,,,,Not a Control Account,Prior Period's Results,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+9990,,,,Not a Control Account,Income Tax,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+10001,,Accounts Receivable,,Accounts Receivable Account,Accounts Receivable,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+11001,,,,On-Hand Inventory,Raw - Inventory,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+11002,,,,WIP inventory,Wip - Inventory,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+11003,,,,On-Hand Inventory,Finished Goods Inv,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+13001,,,,Not a Control Account,Bank GBP,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+13002,,,,Not a Control Account,Cash,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+20001,,,,Accounts Payable Account,Accounts Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+21001,Tax,Tax,,Not a Control Account,VAT - Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+21002,,,,Not a Control Account,VAT - Receivable,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+21003,Tax,Tax,,Not a Control Account,VAt - Settlement,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+30001,,,,Not a Control Account,Share capital,FALSE,FALSE,FALSE,FALSE,Credit,Capital

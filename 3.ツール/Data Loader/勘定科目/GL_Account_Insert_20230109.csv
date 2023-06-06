@@ -1,0 +1,146 @@
+RSTKF__GLACCT_ACCT__C,RSTKF__GLACCT_APACCTTYPE__C,RSTKF__GLACCT_ARACCTTYPE__C,RSTKF__GLACCT_CMPNO__C,RSTKF__GLACCT_CONTROLACCTTYPE__C,RSTKF__GLACCT_DESC__C,RSTKF__GLACCT_DISPAPDTL__C,RSTKF__GLACCT_DISPARDTL__C,RSTKF__GLACCT_DISPMFGDTL__C,RSTKF__GLACCT_INACTIVEIND__C,RSTKF__GLACCT_NORMALBAL__C,RSTKF__GLACCT_TYPE__C
+1000,Cash Account,Cash Account,aBeDT0000008TMg0AM,Not a Control Account,Checking,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1005,Cash Account,Cash Account,aBeDT0000008TMg0AM,Not a Control Account,Deposit,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1070,Cash Account,Cash Account,aBeDT0000008TMg0AM,Not a Control Account,Petty Cash,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1200,,Accounts Receivable,aBeDT0000008TMg0AM,Accounts Receivable Account,Accounts Receivable Control,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1205,,Write-off/Write-up,aBeDT0000008TMg0AM,Not a Control Account,Allowance for Doubtful Accounts,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1300,,,aBeDT0000008TMg0AM,Not a Control Account,Inter-Company Receivables,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1305,,Credit Card Clearing,aBeDT0000008TMg0AM,Not a Control Account,Credit Card Receivable,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1350,,,aBeDT0000008TMg0AM,Not a Control Account,Prepaid Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1360,,,aBeDT0000008TMg0AM,Not a Control Account,Accrued Income,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1400,,,aBeDT0000008TMg0AM,On-Hand Inventory,"Inventory, Raw Material",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1405,,,aBeDT0000008TMg0AM,On-Hand Inventory,"Inventory, Non-Nettable",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1410,,,aBeDT0000008TMg0AM,Not a Control Account,"Inventory, Division Transfer Clearing",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1420,,,aBeDT0000008TMg0AM,WIP inventory,"Inventory, Subcontract PO WIP",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1425,,,aBeDT0000008TMg0AM,On-Hand Inventory,"Inventory, Finished Goods",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1430,,,aBeDT0000008TMg0AM,Not a Control Account,"Inventory, Shipping Clearing",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1440,,,aBeDT0000008TMg0AM,Not a Control Account,Property & Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1490,,,aBeDT0000008TMg0AM,Not a Control Account,Accumulate Depreciation,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+1500,,,aBeDT0000008TMg0AM,Not a Control Account,Land,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1510,,,aBeDT0000008TMg0AM,Not a Control Account,Buildings,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1515,,,aBeDT0000008TMg0AM,Not a Control Account,Leasehold Improvements,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1520,,,aBeDT0000008TMg0AM,Not a Control Account,Vehicles,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1525,,,aBeDT0000008TMg0AM,Not a Control Account,Furniture and Fixtures,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1530,,,aBeDT0000008TMg0AM,Not a Control Account,Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1535,,,aBeDT0000008TMg0AM,Not a Control Account,Buildings Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1540,,,aBeDT0000008TMg0AM,Not a Control Account,Leasehold Improvements Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1545,,,aBeDT0000008TMg0AM,Not a Control Account,Vehicles Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1550,,,aBeDT0000008TMg0AM,Not a Control Account,Furniture and Fixtures Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1555,,,aBeDT0000008TMg0AM,Not a Control Account,Equipment Accumulated Depreciation,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1900,,,aBeDT0000008TMg0AM,Not a Control Account,Intangible Assets,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+2000,Accounts Payable,,aBeDT0000008TMg0AM,Accounts Payable Account,Accounts Payable Control,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2005,Accrued Accounts Payable,,aBeDT0000008TMg0AM,Not a Control Account,Accrued Accounts Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2100,Credit Card Clearing,,aBeDT0000008TMg0AM,Not a Control Account,Credit Card Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2105,,,aBeDT0000008TMg0AM,Not a Control Account,Inter-Company Payables,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2110,,,aBeDT0000008TMg0AM,Not a Control Account,Staff Expenses Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2115,,,aBeDT0000008TMg0AM,Not a Control Account,Employment Taxes Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2120,,,aBeDT0000008TMg0AM,Not a Control Account,Pension Contributions Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2135,,Tax,aBeDT0000008TMg0AM,Not a Control Account,Sales Tax Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2200,,,aBeDT0000008TMg0AM,Not a Control Account,Customer Deposits,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2205,,,aBeDT0000008TMg0AM,Not a Control Account,Deferred Income,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2260,,,aBeDT0000008TMg0AM,Not a Control Account,Vat Tax - Vat Recovery,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2300,,,aBeDT0000008TMg0AM,Not a Control Account,Bank Loan,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2125,,,aBeDT0000008TMg0AM,Not a Control Account,Salaries Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2130,,,aBeDT0000008TMg0AM,Not a Control Account,Accrued Expenses,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2270,Tax,Tax,aBeDT0000008TMg0AM,Not a Control Account,Witholding Tax - Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2305,,,aBeDT0000008TMg0AM,Not a Control Account,Note Payable,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2310,,,aBeDT0000008TMg0AM,Not a Control Account,Corporation Tax,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2315,,,aBeDT0000008TMg0AM,Not a Control Account,Due Franchisee,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2320,,,aBeDT0000008TMg0AM,Not a Control Account,Due to Acme Inc.,FALSE,FALSE,FALSE,FALSE,Credit,Asset
+2325,,,aBeDT0000008TMg0AM,Not a Control Account,Due to Acme Canada,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+2330,,,aBeDT0000008TMg0AM,Not a Control Account,Due to Acme UK,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+3000,,,aBeDT0000008TMg0AM,Not a Control Account,Capital Stock,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+3050,,,aBeDT0000008TMg0AM,Not a Control Account,Retained Earnings (Prior Years),FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3060,,,aBeDT0000008TMg0AM,Not a Control Account,Current Year's Earnings,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+3500,,,aBeDT0000008TMg0AM,Not a Control Account,Retained Profit,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+3900,,,aBeDT0000008TMg0AM,Not a Control Account,Current Year Profit,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4000,,,aBeDT0000008TMg0AM,Not a Control Account,Product Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4100,,,aBeDT0000008TMg0AM,Not a Control Account,Freight Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4105,,,aBeDT0000008TMg0AM,Not a Control Account,Packaging Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4110,,,aBeDT0000008TMg0AM,Not a Control Account,Handling Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4200,,,aBeDT0000008TMg0AM,Not a Control Account,Service Revenue,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4390,,,aBeDT0000008TMg0AM,Not a Control Account,Revenue - Other,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4392,,,aBeDT0000008TMg0AM,Not a Control Account,Prepayment Invoice Sales Acct,FALSE,FALSE,FALSE,FALSE,Credit,Revenue
+4395,,,aBeDT0000008TMg0AM,Not a Control Account,Credit Card Prepayment Account,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+4550,,,aBeDT0000008TMg0AM,Not a Control Account,Defered COSG,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+4900,,,aBeDT0000008TMg0AM,Not a Control Account,Product Returns,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+5000,,,aBeDT0000008TMg0AM,Not a Control Account,Product Cost of Sales,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5100,,,aBeDT0000008TMg0AM,Not a Control Account,Inventory Scrap,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5105,,,aBeDT0000008TMg0AM,Not a Control Account,Inventory Adjustment,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5110,,,aBeDT0000008TMg0AM,Not a Control Account,Purchase Price Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5120,,,aBeDT0000008TMg0AM,Not a Control Account,Material Overhead Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5125,,,aBeDT0000008TMg0AM,Not a Control Account,Negative Inventory Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5130,,,aBeDT0000008TMg0AM,Not a Control Account,PO-Invoice Price Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5135,,,aBeDT0000008TMg0AM,Not a Control Account,PO Receipt-Invoice Quantity Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5140,,,aBeDT0000008TMg0AM,Not a Control Account,Standards Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5145,,,aBeDT0000008TMg0AM,Not a Control Account,Division-Division Move Standards Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5150,,,aBeDT0000008TMg0AM,Not a Control Account,Work Order Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5155,,,aBeDT0000008TMg0AM,Not a Control Account,Work Order Scrap,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5165,,,aBeDT0000008TMg0AM,Not a Control Account,Material Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5170,,,aBeDT0000008TMg0AM,Not a Control Account,Labor Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5175,,,aBeDT0000008TMg0AM,Not a Control Account,Labor Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5180,,,aBeDT0000008TMg0AM,Not a Control Account,Machine Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5185,,,aBeDT0000008TMg0AM,Not a Control Account,Fringe Overhead Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5190,,,aBeDT0000008TMg0AM,Not a Control Account,MFG General Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+5195,Freight,,aBeDT0000008TMg0AM,Not a Control Account,Freight - Out and Handling,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5200,,,aBeDT0000008TMg0AM,Not a Control Account,Purchased Consultancy,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5205,,,aBeDT0000008TMg0AM,Not a Control Account,Billable Hours,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5410,,,aBeDT0000008TMg0AM,Not a Control Account,Adjustment Account,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6005,,,aBeDT0000008TMg0AM,Not a Control Account,Web Site,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6100,,,aBeDT0000008TMg0AM,Not a Control Account,Accounting Fees,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6105,,,aBeDT0000008TMg0AM,Not a Control Account,Legal and Professional Fees,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6200,,,aBeDT0000008TMg0AM,Not a Control Account,Bank Charges,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6205,,,aBeDT0000008TMg0AM,Not a Control Account,Donations,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6210,,,aBeDT0000008TMg0AM,Not a Control Account,Insurance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6300,,,aBeDT0000008TMg0AM,Not a Control Account,Salaries and Wages,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6305,,,aBeDT0000008TMg0AM,Not a Control Account,Employee Benefits,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6310,,,aBeDT0000008TMg0AM,Not a Control Account,Payroll Taxes,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6400,,,aBeDT0000008TMg0AM,Not a Control Account,Airfare,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6405,,,aBeDT0000008TMg0AM,Not a Control Account,Lodging,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6410,,,aBeDT0000008TMg0AM,Not a Control Account,Auto Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6415,,,aBeDT0000008TMg0AM,Not a Control Account,Meals and Entertainment,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6420,,,aBeDT0000008TMg0AM,Not a Control Account,Other Travel Expenses,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6500,,,aBeDT0000008TMg0AM,Not a Control Account,Office Rent,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6505,,,aBeDT0000008TMg0AM,Not a Control Account,Office Expense,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6510,,,aBeDT0000008TMg0AM,Not a Control Account,Utilities,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6515,,,aBeDT0000008TMg0AM,Not a Control Account,Postage and Delivery,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6520,,,aBeDT0000008TMg0AM,Not a Control Account,Repair and Maintenance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6525,,,aBeDT0000008TMg0AM,Not a Control Account,Telephone,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6530,,Credit Card Processing Fee,aBeDT0000008TMg0AM,Not a Control Account,Credit Card Processing Fee,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6600,Terms Discount Taken,,aBeDT0000008TMg0AM,Not a Control Account,Settlement Discounts Received,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6605,,Cash Discounts Allowed,aBeDT0000008TMg0AM,Not a Control Account,Settlement Discounts Allowed,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+6610,,Write-off/Write-up,aBeDT0000008TMg0AM,Not a Control Account,Bad Debts,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+6655,,,aBeDT0000008TMg0AM,Not a Control Account,Bank Card Transactions,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+6700,,,aBeDT0000008TMg0AM,Not a Control Account,Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+6800,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation Expense,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+6810,,,aBeDT0000008TMg0AM,Not a Control Account,Gain/Loss on Sale of Fixed Assets,FALSE,FALSE,FALSE,FALSE,Credit,Expense
+7100,,,aBeDT0000008TMg0AM,Not a Control Account,Production Variance,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7102,,,aBeDT0000008TMg0AM,Not a Control Account,Div to Div Transfer,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+7350,,,aBeDT0000008TMg0AM,Not a Control Account,COGS Shipping Clearing,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+8000,,Interest Income,aBeDT0000008TMg0AM,Not a Control Account,Interest Income,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+8100,,Interest Expense,aBeDT0000008TMg0AM,Not a Control Account,Interest Expense,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8200,Foreign Exchange Variance,Foreign Exchange Variance,aBeDT0000008TMg0AM,Not a Control Account,Misc. Income and Expense,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8205,,Finance Charge Interest Earned,aBeDT0000008TMg0AM,Not a Control Account,Finance Charges - Interest Earned,FALSE,FALSE,FALSE,FALSE,Credit,Capital
+8210,Foreign Exchange Variance,,aBeDT0000008TMg0AM,Not a Control Account,AP Exchange Rate Variance,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8220,,Foreign Exchange Variance,aBeDT0000008TMg0AM,Not a Control Account,AR Exchange Rate Variance,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8300,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation - Buildings,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8305,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation - Leasehold Improvements,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8310,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation - Vehicles,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8315,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation - Furniture and Fixtures,FALSE,FALSE,FALSE,FALSE,Debit,Capital
+8320,,,aBeDT0000008TMg0AM,Not a Control Account,Depreciation - Equipment,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8400,Tax,,aBeDT0000008TMg0AM,Not a Control Account,Income Tax,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8500,,Cash Receipts Multicurrency Rounding,aBeDT0000008TMg0AM,Not a Control Account,Gain/Loss on Currency Exchange,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8510,,Bank Payment Variance,aBeDT0000008TMg0AM,Not a Control Account,Multi-Currency Payment Variance,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+8520,,Bank Payment Variance,aBeDT0000008TMg0AM,Not a Control Account,Single Currency Paymen Variance,FALSE,FALSE,FALSE,FALSE,Debit,Revenue
+9650,,,aBeDT0000008TMg0AM,Not a Control Account,Bank Charges,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+SR-9001,,Tax,aBeDT0000008TMg0AM,Not a Control Account,SR-VAT Output Account,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+SR-9002,Tax,,aBeDT0000008TMg0AM,Not a Control Account,SR-VAT Input Account,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+SR-9003,,,aBeDT0000008TMg0AM,Not a Control Account,SR-VAT Clearing Account,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+SR-9004,,Tax,aBeDT0000008TMg0AM,Not a Control Account,SR-Federal Tax (Sales) Payable,FALSE,FALSE,FALSE,FALSE,Credit,Liability
+7500,,,aBeDT0000008TMg0AM,Not a Control Account,EM Checking,FALSE,FALSE,FALSE,FALSE,Debit,Expense
+1415,,,aBeDT0000008TMg0AM,WIP inventory,"Inventory, WO WIP",FALSE,FALSE,FALSE,FALSE,Debit,Asset
+5151,,,aBeDT0000008TMg0AM,Not a Control Account,Rewordk WO Variance,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+5900,,,aBeDT0000008TMg0AM,Not a Control Account,RMA Product Return,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+6000,,,aBeDT0000008TMg0AM,Not a Control Account,Advertising,FALSE,FALSE,FALSE,FALSE,Debit,Liability
+1416,,,aBeDT0000008TMg0AM,Not a Control Account,WIP Disassembly WO,FALSE,FALSE,FALSE,FALSE,Debit,Asset
+1417,,,aBeDT0000008TMg0AM,Not a Control Account,WIP Rework WO,FALSE,FALSE,FALSE,FALSE,Debit,Asset
